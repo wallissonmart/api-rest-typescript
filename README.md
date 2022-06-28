@@ -1,5 +1,5 @@
 <h1 align="left">API RESTful</h1>
-<p align="left">API para visualizar, editar, cadastrar e excluir carros com métodos HTTP</p>
+<p align="left">API para visualizar, editar, cadastrar e excluir dados de carros com métodos HTTP</p>
 
 <p align="left"> •
  <a href="#status">Status</a> •
