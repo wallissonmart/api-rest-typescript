@@ -16,7 +16,7 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a aplicação em sua máquina basta seguir os seguintes passos:
+Para acessar a aplicação em sua máquina, basta seguir os seguintes passos:
 
 - git clone https://github.com/wallissonmart/api-rest-typescript.git
 
