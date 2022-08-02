@@ -24,7 +24,7 @@ Para acessar a aplicação bastar seguir os seguintes passos:
 
 - npm run dev
 
-- agora é só cessar a rota desejada no seu navegador, ex: http://localhost:3000/cars
+- agora é só acessar a rota desejada no seu navegador, ex: http://localhost:3000/cars
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
