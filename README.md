@@ -17,9 +17,14 @@
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
 Para acessar a aplicação bastar seguir os seguintes passos:
+
 - git clone https://github.com/wallissonmart/api-rest-typescript.git
+
 - npm install
-- acessar a rota desejada no seu navegador, ex: 
+
+- npm run dev
+
+- agora é só cessar a rota desejada no seu navegador, ex: http://localhost:3000/cars
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
