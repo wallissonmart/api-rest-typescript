@@ -16,7 +16,10 @@
 </h3>
 
 <h1 align="left" id="acessar">👆 Como acessar</h1>
-Para acessar a aplicação bastar seguir os seguintes passos: ---
+Para acessar a aplicação bastar seguir os seguintes passos:
+- git clone https://github.com/wallissonmart/api-rest-typescript.git
+- npm install
+- acessar a rota desejada no seu navegador, ex: 
 
 <h1 align="left" id="funcionalidades">⚙️ Funcionalidades</h1>
 
